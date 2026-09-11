@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.joblib
+.env
+
+# Large/raw dataset files
+twcs.csv
+apple_conversations.json
+selected_brand_tweets.csv
+
+# Temporary/generated files
+*.log
